@@ -3,34 +3,34 @@
     "schema" : "dbo",
     "table" : "DimUser",
     "cdc_col" : "updated_at",
-    "from_date" ""
-  }
+    "from_date" : ""
+  },
 
-   {
+  {
     "schema" : "dbo",
     "table" : "DimArtist",
     "cdc_col" : "updated_at",
-    "from_date" ""
+    "from_date" : ""
   },
 
-   {
+  {
     "schema" : "dbo",
     "table" : "DimTrack",
     "cdc_col" : "updated_at",
-    "from_date" ""
+    "from_date" : ""
   },
 
-   {
+  {
     "schema" : "dbo",
     "table" : "DimDate",
     "cdc_col" : "updated_at",
-    "from_date" ""
+    "from_date" : ""
   },
   {
     "schema" : "dbo",
     "table" : "DimDate",
     "cdc_col" : "FactStream",
-    "from_date" ""
+    "from_date" : ""
   }
 ]
 
