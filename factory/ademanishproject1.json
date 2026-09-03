@@ -1,0 +1,15 @@
+{
+	"name": "ademanishproject1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9afcaa86-15ba-467b-b7cd-fd0b04d8f94b",
+		"tenantId": "79007744-6405-44d9-a873-aacc5f1cfd9a"
+	}
+}
