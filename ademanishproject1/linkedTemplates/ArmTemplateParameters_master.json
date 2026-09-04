@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ademanishproject1"
+		},
+		"LSAzureSql_password": {
+			"value": ""
+		},
+		"LS_AzureDataLake_accountKey": {
+			"value": ""
+		},
+		"LSAzureSql_properties_typeProperties_server": {
+			"value": "adf-sql-srever.database.windows.net"
+		},
+		"LSAzureSql_properties_typeProperties_database": {
+			"value": "spotifydb"
+		},
+		"LSAzureSql_properties_typeProperties_userName": {
+			"value": "manish-admin"
+		},
+		"LS_AzureDataLake_properties_typeProperties_url": {
+			"value": "https://storagedeproject1.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
